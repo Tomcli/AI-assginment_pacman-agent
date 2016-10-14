@@ -1,4 +1,4 @@
-Pacman agent with reinforcement learning
+#Pacman agent with reinforcement learning
 
 This assignment focuses on implementing value iteration and Q-learning with different parameters.
 
